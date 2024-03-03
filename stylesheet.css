@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: aquamarine;
+    background-color: linear-gradient(90deg, #581846, #900C3F, #C70039, #FF5733, #FFC300);
 }
 
 .section {
