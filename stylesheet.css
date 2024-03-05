@@ -1,6 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: linear-gradient(90deg, #581846, #900C3F, #C70039, #FF5733, #FFC300);
+    background-color: rgb(41, 185, 137);
+
+    
+}
+
+.wrapper{
+    font-style: italic;
+
 }
 
 .section {
@@ -9,7 +16,8 @@ body {
 
 #special {
     font-weight: bold;
-    color: blue;
+    color: blueviolet;
+    font-style: italic;
 }
 
 a:hover {
@@ -20,8 +28,7 @@ a:hover {
     width: 200px;
     height: 100px;
     border: 2px solid #000;
-    padding: 10px;
-    margin: 10px;
+    padding: 10px
 }
 
 .img-eldenring{
